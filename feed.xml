@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Graph Galaxy</title>
-    <link href="https://tang3w.com/graph-galaxy-blog/feed.xml" rel="self" />
-    <link href="https://tang3w.com/graph-galaxy-blog" />
+    <link href="https://tang3w.github.io/graph-galaxy-blog/feed.xml" rel="self" />
+    <link href="https://tang3w.github.io/graph-galaxy-blog" />
     <updated>1970-01-01T08:00:00+08:00</updated>
     <author>
         <name>Tianyong Tang</name>
     </author>
-    <id>https://tang3w.com/graph-galaxy-blog</id>
+    <id>https://tang3w.github.io/graph-galaxy-blog</id>
 
 </feed>
