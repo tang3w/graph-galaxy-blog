@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Graph Galaxy</title>
-    <link href="https://tang3w.github.io/graph-galaxy-blog/feed.xml" rel="self" />
-    <link href="https://tang3w.github.io/graph-galaxy-blog" />
+    <link href="https://blog.graphgalaxy.com/feed.xml" rel="self" />
+    <link href="https://blog.graphgalaxy.com" />
     <updated>2024-01-11T21:17:08+08:00</updated>
     <author>
         <name>Tianyong Tang</name>
     </author>
-    <id>https://tang3w.github.io/graph-galaxy-blog</id>
+    <id>https://blog.graphgalaxy.com</id>
 
     <entry>
         <title>Graph Galaxy</title>
         <author>
             <name>Tianyong Tang</name>
         </author>
-        <link href="https://tang3w.github.io/graph-galaxy-blog/graph-galaxy.html"/>
-        <id>https://tang3w.github.io/graph-galaxy-blog/graph-galaxy.html</id>
+        <link href="https://blog.graphgalaxy.com/graph-galaxy.html"/>
+        <id>https://blog.graphgalaxy.com/graph-galaxy.html</id>
 
         <updated>2024-01-11T21:17:08+08:00</updated>
             <summary>

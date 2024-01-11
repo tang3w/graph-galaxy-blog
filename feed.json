@@ -2,16 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Graph Galaxy",
     "description": "",
-    "home_page_url": "https://tang3w.github.io/graph-galaxy-blog",
-    "feed_url": "https://tang3w.github.io/graph-galaxy-blog/feed.json",
+    "home_page_url": "https://blog.graphgalaxy.com",
+    "feed_url": "https://blog.graphgalaxy.com/feed.json",
     "user_comment": "",
+    "icon": "https://blog.graphgalaxy.com/media/website/icon.png",
     "author": {
         "name": "Tianyong Tang"
     },
     "items": [
         {
-            "id": "https://tang3w.github.io/graph-galaxy-blog/graph-galaxy.html",
-            "url": "https://tang3w.github.io/graph-galaxy-blog/graph-galaxy.html",
+            "id": "https://blog.graphgalaxy.com/graph-galaxy.html",
+            "url": "https://blog.graphgalaxy.com/graph-galaxy.html",
             "title": "Graph Galaxy",
             "summary": "Graph Galaxy is a graph visualization app on macOS.",
             "content_html": "<p>Graph Galaxy is a graph visualization app on macOS.</p>",
