@@ -3,12 +3,53 @@
     <title>Graph Galaxy</title>
     <link href="https://blog.graphgalaxy.com/feed.xml" rel="self" />
     <link href="https://blog.graphgalaxy.com" />
-    <updated>2024-01-11T21:17:08+08:00</updated>
+    <updated>2024-01-12T00:03:59+08:00</updated>
     <author>
         <name>Tianyong Tang</name>
     </author>
     <id>https://blog.graphgalaxy.com</id>
 
+    <entry>
+        <title>Support</title>
+        <author>
+            <name>Tianyong Tang</name>
+        </author>
+        <link href="https://blog.graphgalaxy.com/support.html"/>
+        <id>https://blog.graphgalaxy.com/support.html</id>
+
+        <updated>2024-01-12T00:03:59+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Please contact us by graphgalaxyapp@gmail.com for any questions.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Please contact us by <a href="mailto:graphgalaxyapp@gmail.com">graphgalaxyapp@gmail.com</a> for any questions.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Privacy Policy</title>
+        <author>
+            <name>Tianyong Tang</name>
+        </author>
+        <link href="https://blog.graphgalaxy.com/privacy-policy.html"/>
+        <id>https://blog.graphgalaxy.com/privacy-policy.html</id>
+
+        <updated>2024-01-12T00:02:48+08:00</updated>
+            <summary>
+                <![CDATA[
+                    We do not collect any personal data with Graph Galaxy. Our Service does not require any form of registration, allowing you to use it anonymously. No personal data is required to use the app, and we do not collect any information about your device, location, or&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We do not collect any personal data with Graph Galaxy. Our Service does not require any form of registration, allowing you to use it anonymously. No personal data is required to use the app, and we do not collect any information about your device, location, or usage patterns.</p>
+<p>If you have any questions about this Privacy Policy, please contact us by <a href="mailto:graphgalaxyapp@gmail.com">graphgalaxyapp@gmail.com</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Graph Galaxy</title>
         <author>

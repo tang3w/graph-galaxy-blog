@@ -11,6 +11,34 @@
     },
     "items": [
         {
+            "id": "https://blog.graphgalaxy.com/support.html",
+            "url": "https://blog.graphgalaxy.com/support.html",
+            "title": "Support",
+            "summary": "Please contact us by graphgalaxyapp@gmail.com for any questions.",
+            "content_html": "<p>Please contact us by <a href=\"mailto:graphgalaxyapp@gmail.com\">graphgalaxyapp@gmail.com</a> for any questions.</p>",
+            "author": {
+                "name": "Tianyong Tang"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-12T00:03:44+08:00",
+            "date_modified": "2024-01-12T00:03:59+08:00"
+        },
+        {
+            "id": "https://blog.graphgalaxy.com/privacy-policy.html",
+            "url": "https://blog.graphgalaxy.com/privacy-policy.html",
+            "title": "Privacy Policy",
+            "summary": "We do not collect any personal data with Graph Galaxy. Our Service does not require any form of registration, allowing you to use it anonymously. No personal data is required to use the app, and we do not collect any information about your device, location, or&hellip;",
+            "content_html": "<p>We do not collect any personal data with Graph Galaxy. Our Service does not require any form of registration, allowing you to use it anonymously. No personal data is required to use the app, and we do not collect any information about your device, location, or usage patterns.</p>\n<p>If you have any questions about this Privacy Policy, please contact us by <a href=\"mailto:graphgalaxyapp@gmail.com\">graphgalaxyapp@gmail.com</a></p>",
+            "author": {
+                "name": "Tianyong Tang"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-11T23:59:50+08:00",
+            "date_modified": "2024-01-12T00:02:48+08:00"
+        },
+        {
             "id": "https://blog.graphgalaxy.com/graph-galaxy.html",
             "url": "https://blog.graphgalaxy.com/graph-galaxy.html",
             "title": "Graph Galaxy",
