@@ -3,7 +3,7 @@
     <title>Graph Galaxy</title>
     <link href="https://blog.graphgalaxy.com/feed.xml" rel="self" />
     <link href="https://blog.graphgalaxy.com" />
-    <updated>2024-01-12T00:19:52+08:00</updated>
+    <updated>2024-01-12T00:57:07+08:00</updated>
     <author>
         <name>Tianyong Tang</name>
     </author>
@@ -107,22 +107,22 @@
         </content>
     </entry>
     <entry>
-        <title>Graph Galaxy</title>
+        <title>Welcome!</title>
         <author>
             <name>Tianyong Tang</name>
         </author>
         <link href="https://blog.graphgalaxy.com/graph-galaxy.html"/>
         <id>https://blog.graphgalaxy.com/graph-galaxy.html</id>
 
-        <updated>2024-01-11T21:17:08+08:00</updated>
+        <updated>2024-01-12T00:57:07+08:00</updated>
             <summary>
                 <![CDATA[
-                    Graph Galaxy is a graph visualization app on macOS.
+                    Welcome to Graph Galaxy. If you have any question about the app, please contact graphgalaxyapp@gmail.com.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Graph Galaxy is a graph visualization app on macOS.</p>
+                <p>Welcome to Graph Galaxy. If you have any question about the app, please contact <a href="mailto:graphgalaxyapp@gmail.com">graphgalaxyapp@gmail.com</a>.</p>
             ]]>
         </content>
     </entry>

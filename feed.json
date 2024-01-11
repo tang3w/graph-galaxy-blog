@@ -55,16 +55,16 @@
         {
             "id": "https://blog.graphgalaxy.com/graph-galaxy.html",
             "url": "https://blog.graphgalaxy.com/graph-galaxy.html",
-            "title": "Graph Galaxy",
-            "summary": "Graph Galaxy is a graph visualization app on macOS.",
-            "content_html": "<p>Graph Galaxy is a graph visualization app on macOS.</p>",
+            "title": "Welcome!",
+            "summary": "Welcome to Graph Galaxy. If you have any question about the app, please contact graphgalaxyapp@gmail.com.",
+            "content_html": "<p>Welcome to Graph Galaxy. If you have any question about the app, please contact <a href=\"mailto:graphgalaxyapp@gmail.com\">graphgalaxyapp@gmail.com</a>.</p>",
             "author": {
                 "name": "Tianyong Tang"
             },
             "tags": [
             ],
             "date_published": "2024-01-11T21:17:02+08:00",
-            "date_modified": "2024-01-11T21:17:08+08:00"
+            "date_modified": "2024-01-12T00:57:07+08:00"
         }
     ]
 }
