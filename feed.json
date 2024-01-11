@@ -9,5 +9,19 @@
         "name": "Tianyong Tang"
     },
     "items": [
+        {
+            "id": "https://tang3w.github.io/graph-galaxy-blog/graph-galaxy.html",
+            "url": "https://tang3w.github.io/graph-galaxy-blog/graph-galaxy.html",
+            "title": "Graph Galaxy",
+            "summary": "Graph Galaxy is a graph visualization app on macOS.",
+            "content_html": "<p>Graph Galaxy is a graph visualization app on macOS.</p>",
+            "author": {
+                "name": "Tianyong Tang"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-11T21:17:02+08:00",
+            "date_modified": "2024-01-11T21:17:08+08:00"
+        }
     ]
 }

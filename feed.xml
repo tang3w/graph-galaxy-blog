@@ -3,10 +3,30 @@
     <title>Graph Galaxy</title>
     <link href="https://tang3w.github.io/graph-galaxy-blog/feed.xml" rel="self" />
     <link href="https://tang3w.github.io/graph-galaxy-blog" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2024-01-11T21:17:08+08:00</updated>
     <author>
         <name>Tianyong Tang</name>
     </author>
     <id>https://tang3w.github.io/graph-galaxy-blog</id>
 
+    <entry>
+        <title>Graph Galaxy</title>
+        <author>
+            <name>Tianyong Tang</name>
+        </author>
+        <link href="https://tang3w.github.io/graph-galaxy-blog/graph-galaxy.html"/>
+        <id>https://tang3w.github.io/graph-galaxy-blog/graph-galaxy.html</id>
+
+        <updated>2024-01-11T21:17:08+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Graph Galaxy is a graph visualization app on macOS.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Graph Galaxy is a graph visualization app on macOS.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
