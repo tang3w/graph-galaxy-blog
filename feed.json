@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://blog.graphgalaxy.com/pipeline-graph-to-gvpr.html",
+            "url": "https://blog.graphgalaxy.com/pipeline-graph-to-gvpr.html",
+            "title": "Process Graph by GVPR",
+            "summary": "Graph Galaxy 13.0 now supports integrating GVPR program into graph. You can write GVPR program and preview the output in visual editor. The screenshot below&hellip;",
+            "content_html": "<p><a href=\"https://apps.apple.com/app/graph-galaxy-visual-thinking/id1473722262\" target=\"_blank\" rel=\"noopener noreferrer\">Graph Galaxy</a> 13.0 now supports integrating GVPR program into graph. You can write GVPR program and preview the output in visual editor. The screenshot below demonstrates how it works and looks like.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://blog.graphgalaxy.com/media/posts/5//gvpr-demo.png\" alt=\"\" width=\"2462\" height=\"1542\" sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://blog.graphgalaxy.com/media/posts/5//responsive/gvpr-demo-xs.png 300w ,https://blog.graphgalaxy.com/media/posts/5//responsive/gvpr-demo-sm.png 480w ,https://blog.graphgalaxy.com/media/posts/5//responsive/gvpr-demo-md.png 768w ,https://blog.graphgalaxy.com/media/posts/5//responsive/gvpr-demo-lg.png 1024w\"></figure>\n<p>The GVPR panel locates under the graph canvas. You can write the program in the left code editor and preview the output on the right.</p>\n<p><a href=\"https://graphviz.org/pdf/gvpr.1.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">GVPR</a> is a hidden gem for Graphviz. AFAIK many people have been using Graphviz for many years but didn't know it. I am not seeing it's being highlighted in Graphviz's document. I guess it's because Graphviz is typically used as a renderer for DOT language and people can always preprocess the DOT to get things done.</p>\n<p>Why I implemented the GVPR feature in Graph Galaxy? Because I see the potentials that it could be a powerful tool. It may help you automate some work by post-processing the graph. As an example, the above screenshot demonstrates a program to find all leaf nodes in graph and highlight them.</p>\n<p>Hope that more and more people will find the interesting uses of the GVPR.</p>",
+            "author": {
+                "name": "Tianyong Tang"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-13T01:59:46+08:00",
+            "date_modified": "2024-01-13T02:01:13+08:00"
+        },
+        {
             "id": "https://blog.graphgalaxy.com/terms-of-use.html",
             "url": "https://blog.graphgalaxy.com/terms-of-use.html",
             "title": "Terms of Use",
