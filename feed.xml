@@ -3,7 +3,7 @@
     <title>Graph Galaxy</title>
     <link href="https://blog.graphgalaxy.com/feed.xml" rel="self" />
     <link href="https://blog.graphgalaxy.com" />
-    <updated>2024-01-14T18:45:00+08:00</updated>
+    <updated>2024-01-14T19:07:57+08:00</updated>
     <author>
         <name>Tianyong Tang</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://blog.graphgalaxy.com/a-gvpr-program-transforming-org-chart.html"/>
         <id>https://blog.graphgalaxy.com/a-gvpr-program-transforming-org-chart.html</id>
 
-        <updated>2024-01-14T18:45:00+08:00</updated>
+        <updated>2024-01-14T19:07:57+08:00</updated>
             <summary>
                 <![CDATA[
                     In Graph Galaxy 13.0, the document can take a GVPR program to transform the graph. I played the feature a little with the use case&hellip;
@@ -31,7 +31,7 @@
 <p>The GVPR program in bottom-left window transforms the above graph into another representation shown in bottom-right window. The program iterates each node and count its descendants, then shows the number in node.</p>
 <p>Of course the program can be optimized further like eliminating the duplicated calculations by using a single pass of DFS to count descendants for all nodes. The program also doesn't handle structures like multiple parents and circular reference that are invalid for org chart. It shows the fundamentals - walk through the structure, access the node property, and finally format the result into node label.</p>
 <p>With this set-up, the graph becomes dynamic with the transformation you assigned. Whenever you make a change in original graph, the program will run again and transform the new graph for you, reflecting the new number of people someone manages in the org.</p>
-<p>This program also shows a limitation of GVPR program. As you may already realized - it doesn't support recursive function call. That's why the function <code>count_descendants</code> is implemented in non-recursive approach.</p>
+<p>This program also shows a limitation of GVPR program. As you may already realized - it doesn't support recursive function call. Seems to be that the context of a function call will be overwritten by next run of the same function without stack support. That's why the function <code>count_descendants</code> is implemented in non-recursive approach.</p>
 <p>The <a href="https://www.graphviz.org/pdf/gvpr.1.pdf" target="_blank" rel="noopener noreferrer">GVPR manual</a> lists some known issues. We should read about it and avoid the pitfalls when writing GVPR program.</p>
             ]]>
         </content>
